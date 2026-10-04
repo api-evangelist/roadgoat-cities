@@ -39,7 +39,6 @@ apis:
   - name: RoadGoat Cities
     description: "Cities content & photos API"
     humanURL: https://www.roadgoat.com/business/cities-api
-    baseURL: https://www.roadgoat.com/business/cities-api
     tags:
       - Geocoding
     properties:
